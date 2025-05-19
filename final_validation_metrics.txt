@@ -1,0 +1,6 @@
+Métricas Finais de Validação do Modelo Gradient Boosting:
+
+RMSE no conjunto de teste: 84190.26
+R² no conjunto de teste: 0.3368
+RMSE médio na validação cruzada: 146065.93
+Desvio padrão do RMSE na validação cruzada: 47795.49

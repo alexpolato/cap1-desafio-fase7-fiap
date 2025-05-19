@@ -1,0 +1,8 @@
+Melhor Modelo: Gradient Boosting
+RMSE (Treino): 2913.80
+RMSE (Teste): 84190.26
+MAE (Treino): 2342.35
+MAE (Teste): 64367.51
+R² (Treino): 0.9997
+R² (Teste): 0.3368
+Tempo de Treinamento: 0.0835 segundos
